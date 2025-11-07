@@ -69,6 +69,6 @@
 💬 [Discord Community](https://blog.okecbot.com)  
 📧 developers@okecbot.com  
 📚 [Documentation](https://docs.okecbot.com)  
-🛒 [Marketplace](https://market.okecbot.com)
+🛒 [Marketplace](https://p2p.okecbot.com)
 
 *Okecbot — If a human can do it on a browser we can automate it on okecbot.*
