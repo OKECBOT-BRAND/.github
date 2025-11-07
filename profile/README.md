@@ -14,8 +14,8 @@
 *   **Primary Focus:** The most powerful, privacy-first browser automation platform ever built — zero cloud dependency, unlimited scale, AI that actually works.
 
 ### Brand Mission & Vision
-*   **Mission:** To give every digital entrepreneur, agency, and business the power to automate anything in their browser — safely, locally, at scale — without writing a single line of code.
-*   **Vision:** To become the global standard for browser automation: one desktop app, one marketplace, one click to infinite productivity.
+*   **Mission:** To give every digital entrepreneur, agency, and business the power to automate anything in their browser and easily purchase such automation service with satisfaction on every order — without writing a single line of code.
+*   **Vision:** To become the global standard for browser AI Automation Agent: one desktop app, one marketplace, one click to infinite web automations.
 
 ### Core Products
 
@@ -27,11 +27,12 @@
    - 3-day unlimited trial — no credit card required
 
 2. **Okecbot Marketplace** (web + in-app)
+   A classified P2P browser profiles and automation market place. USers can buy folloowers, likes, comments, page views, impressions and web engagements directly from the sellers approves on the okecbot market place.
    - 10% commission (lowest in the industry)
    - Sellers list ready-made automations: Instagram growth, TikTok views, Amazon scraping, Google Maps leads, etc.
    - Built-in escrow, 5-star ratings, one-click deployment to your desktop
 
-3. **Okecbot Cloud Bridge** (Docker / VPS ready)
+4. **Okecbot Cloud Bridge** (Docker / VPS ready)
    - For users who want 24/7 uptime without keeping their PC on
    - Official Docker images + one-click deploy scripts
    - Full compatibility with AWS, DigitalOcean, Hetzner, Contabo
